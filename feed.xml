@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Polyglot Daily</title>
+    <link>https://rjthor.github.io/polyglot-daily/</link>
+    <description>Speaking-first audio lessons in French, Gulf Arabic and Norwegian. Listen, answer out loud in the pauses.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Nov 2026 12:30:35 +0000</lastBuildDate>
+    <itunes:author>Polyglot Daily</itunes:author>
+    <itunes:summary>Speaking-first audio lessons in French, Gulf Arabic and Norwegian. Listen, answer out loud in the pauses.</itunes:summary>
+    <itunes:image href="https://rjthor.github.io/polyglot-daily/cover.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <itunes:category text="Education" />
+    <image>
+      <url>https://rjthor.github.io/polyglot-daily/cover.jpg</url>
+      <title>Polyglot Daily</title>
+      <link>https://rjthor.github.io/polyglot-daily/</link>
+    </image>
+    <item>
+      <title>French 15: Travel: checking into a hotel and asking for recommendations</title>
+      <description>French, lesson 15 (street): Travel: checking into a hotel and asking for recommendations
+
+New phrases:
+• J'ai une réservation. = I have a reservation.
+• C'est pour deux nuits. = It's for two nights.
+• Vous avez une chambre libre ? = Do you have a room available?
+• Le petit-déjeuner est inclus ? = Is breakfast included?
+• Quel est le mot de passe du wifi ? = What's the wifi password?
+• Je peux laisser ma valise ici ? = Can I leave my suitcase here?
+• Vous connaissez un bon restaurant près d'ici ? = Do you know a good restaurant nearby?
+• Qu'est-ce qu'il y a à voir ici ? = What is there to see here?
+
+Practise in Claude voice mode (copy this):
+Let's role-play checking into a hotel in French. You are the receptionist and I am a guest who also asks for restaurant and sightseeing tips. Speak slowly, use short simple sentences, and use vous. Correct only one mistake at a time, and keep my replies short.</description>
+      <content:encoded>&lt;p&gt;French, lesson 15 (street): Travel: checking into a hotel and asking for recommendations&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• J&amp;#x27;ai une réservation. = I have a reservation.&lt;br/&gt;• C&amp;#x27;est pour deux nuits. = It&amp;#x27;s for two nights.&lt;br/&gt;• Vous avez une chambre libre ? = Do you have a room available?&lt;br/&gt;• Le petit-déjeuner est inclus ? = Is breakfast included?&lt;br/&gt;• Quel est le mot de passe du wifi ? = What&amp;#x27;s the wifi password?&lt;br/&gt;• Je peux laisser ma valise ici ? = Can I leave my suitcase here?&lt;br/&gt;• Vous connaissez un bon restaurant près d&amp;#x27;ici ? = Do you know a good restaurant nearby?&lt;br/&gt;• Qu&amp;#x27;est-ce qu&amp;#x27;il y a à voir ici ? = What is there to see here?&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play checking into a hotel in French. You are the receptionist and I am a guest who also asks for restaurant and sightseeing tips. Speak slowly, use short simple sentences, and use vous. Correct only one mistake at a time, and keep my replies short.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-27-fr-015-street.mp3" length="5545104" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-fr-2026-11-27-15</guid>
+      <pubDate>Fri, 13 Nov 2026 16:25:00 +0400</pubDate>
+      <itunes:duration>692</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>French 14: Tech talk: a problem with a system, asking for help and explaining the fix</title>
+      <description>French, lesson 14 (office): Tech talk: a problem with a system, asking for help and explaining the fix
+
+New phrases:
+• J'ai un problème. = I have a problem.
+• Le système ne marche pas. = The system isn't working.
+• Il y a une erreur. = There is an error.
+• Vous pouvez m'aider ? = Can you help me?
+• J'ai trouvé la cause. = I found the cause.
+• Je vais redémarrer le serveur. = I'm going to restart the server.
+• Le problème vient de la base de données. = The problem comes from the database.
+• Maintenant, tout fonctionne bien. = Now everything works well.
+
+Practise in Claude voice mode (copy this):
+Let's role-play a French office conversation at beginner level. You are a colleague, and I report a problem with a system, ask for help and explain the fix. Speak slowly in short sentences, and keep your replies short so I can answer out loud. Correct only one mistake at a time, briefly, then continue the conversation.</description>
+      <content:encoded>&lt;p&gt;French, lesson 14 (office): Tech talk: a problem with a system, asking for help and explaining the fix&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• J&amp;#x27;ai un problème. = I have a problem.&lt;br/&gt;• Le système ne marche pas. = The system isn&amp;#x27;t working.&lt;br/&gt;• Il y a une erreur. = There is an error.&lt;br/&gt;• Vous pouvez m&amp;#x27;aider ? = Can you help me?&lt;br/&gt;• J&amp;#x27;ai trouvé la cause. = I found the cause.&lt;br/&gt;• Je vais redémarrer le serveur. = I&amp;#x27;m going to restart the server.&lt;br/&gt;• Le problème vient de la base de données. = The problem comes from the database.&lt;br/&gt;• Maintenant, tout fonctionne bien. = Now everything works well.&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play a French office conversation at beginner level. You are a colleague, and I report a problem with a system, ask for help and explain the fix. Speak slowly in short sentences, and keep your replies short so I can answer out loud. Correct only one mistake at a time, briefly, then continue the conversation.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-26-fr-014-office.mp3" length="5564135" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-fr-2026-11-26-14</guid>
+      <pubDate>Fri, 13 Nov 2026 16:24:00 +0400</pubDate>
+      <itunes:duration>695</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>French 13: Travel: train tickets between Brussels and Luxembourg</title>
+      <description>French, lesson 13 (street): Travel: train tickets between Brussels and Luxembourg
+
+New phrases:
+• Un aller simple, s'il vous plaît. = One single ticket, please.
+• Un aller-retour pour Bruxelles, s'il vous plaît. = A return ticket to Brussels, please.
+• C'est quel quai ? = Which platform is it?
+• Le train part à quelle heure ? = What time does the train leave?
+• Ce train va à Luxembourg ? = Does this train go to Luxembourg?
+• Il y a un train direct ? = Is there a direct train?
+• Il faut changer de train ? = Do I have to change trains?
+• Je voudrais partir demain matin. = I'd like to leave tomorrow morning.
+
+Practise in Claude voice mode (copy this):
+Let's role-play in French at a train station ticket counter between Brussels and Luxembourg. You are the ticket agent and I am a traveller buying a ticket. Speak slowly, use short simple sentences, and keep your turns brief. Correct only one mistake at a time, gently, then let me try again.</description>
+      <content:encoded>&lt;p&gt;French, lesson 13 (street): Travel: train tickets between Brussels and Luxembourg&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Un aller simple, s&amp;#x27;il vous plaît. = One single ticket, please.&lt;br/&gt;• Un aller-retour pour Bruxelles, s&amp;#x27;il vous plaît. = A return ticket to Brussels, please.&lt;br/&gt;• C&amp;#x27;est quel quai ? = Which platform is it?&lt;br/&gt;• Le train part à quelle heure ? = What time does the train leave?&lt;br/&gt;• Ce train va à Luxembourg ? = Does this train go to Luxembourg?&lt;br/&gt;• Il y a un train direct ? = Is there a direct train?&lt;br/&gt;• Il faut changer de train ? = Do I have to change trains?&lt;br/&gt;• Je voudrais partir demain matin. = I&amp;#x27;d like to leave tomorrow morning.&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play in French at a train station ticket counter between Brussels and Luxembourg. You are the ticket agent and I am a traveller buying a ticket. Speak slowly, use short simple sentences, and keep your turns brief. Correct only one mistake at a time, gently, then let me try again.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-25-fr-013-street.mp3" length="5651259" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-fr-2026-11-25-13</guid>
+      <pubDate>Fri, 13 Nov 2026 16:23:00 +0400</pubDate>
+      <itunes:duration>706</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gulf Arabic (Khaleeji) 12: Travel: hotel check-in and asking for a taxi</title>
+      <description>Gulf Arabic (Khaleeji), lesson 12 (street): Travel: hotel check-in and asking for a taxi
+
+New phrases:
+• عندي حجز باسم رامبو. (indi hajz bism Rambo.) = I have a reservation under the name Rambo.
+• أبي غرفة لليلتين، لو سمحت. (abi ghurfa lillaylatayn, law samaht.) = I'd like a room for two nights, please.
+• الفطور مشمول وإلا لا؟ (al-fuTuur mashmuul willa laa?) = Is breakfast included, or not?
+• الساعة كم وقت تسجيل الخروج؟ (as-saa'a kam waqt tasjiil al-khuruuj?) = What time is check-out?
+• شو كلمة السر حق الواي فاي؟ (shu kilmat as-sirr hagg al-wai fai?) = What's the password for the Wi-Fi?
+• المكيف ما يشتغل في غرفتي. (al-mukayyif ma yishtighil fi ghurfati.) = The air conditioning isn't working in my room.
+• تقدر تطلب لي تاكسي من هني؟ (tiqdar tuTlub li taksi min hini?) = Can you order me a taxi from here?
+• أبي أطلع بكرة الساعة سبعة الصبح، تقدر تجهز لي تاكسي؟ (abi aTla' bukra as-saa'a sab'a aS-SubH, tiqdar tjahhiz li taksi?) = I want to leave tomorrow at seven in the morning. Can you get a taxi ready for me?
+
+Practise in Claude voice mode (copy this):
+Let's role-play in Gulf Arabic (Khaleeji, not formal Arabic): I'm a hotel guest checking in and asking reception to get me a taxi, and you play the receptionist. Speak slowly with short, simple sentences, and keep my replies short too. If I make a mistake, correct only one mistake at a time, give me the right sentence to repeat, then carry on with the role-play.
+
+Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.</description>
+      <content:encoded>&lt;p&gt;Gulf Arabic (Khaleeji), lesson 12 (street): Travel: hotel check-in and asking for a taxi&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• عندي حجز باسم رامبو. (indi hajz bism Rambo.) = I have a reservation under the name Rambo.&lt;br/&gt;• أبي غرفة لليلتين، لو سمحت. (abi ghurfa lillaylatayn, law samaht.) = I&amp;#x27;d like a room for two nights, please.&lt;br/&gt;• الفطور مشمول وإلا لا؟ (al-fuTuur mashmuul willa laa?) = Is breakfast included, or not?&lt;br/&gt;• الساعة كم وقت تسجيل الخروج؟ (as-saa&amp;#x27;a kam waqt tasjiil al-khuruuj?) = What time is check-out?&lt;br/&gt;• شو كلمة السر حق الواي فاي؟ (shu kilmat as-sirr hagg al-wai fai?) = What&amp;#x27;s the password for the Wi-Fi?&lt;br/&gt;• المكيف ما يشتغل في غرفتي. (al-mukayyif ma yishtighil fi ghurfati.) = The air conditioning isn&amp;#x27;t working in my room.&lt;br/&gt;• تقدر تطلب لي تاكسي من هني؟ (tiqdar tuTlub li taksi min hini?) = Can you order me a taxi from here?&lt;br/&gt;• أبي أطلع بكرة الساعة سبعة الصبح، تقدر تجهز لي تاكسي؟ (abi aTla&amp;#x27; bukra as-saa&amp;#x27;a sab&amp;#x27;a aS-SubH, tiqdar tjahhiz li taksi?) = I want to leave tomorrow at seven in the morning. Can you get a taxi ready for me?&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play in Gulf Arabic (Khaleeji, not formal Arabic): I&amp;#x27;m a hotel guest checking in and asking reception to get me a taxi, and you play the receptionist. Speak slowly with short, simple sentences, and keep my replies short too. If I make a mistake, correct only one mistake at a time, give me the right sentence to repeat, then carry on with the role-play.&lt;br/&gt;&lt;br/&gt;Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-24-ar-gulf-012-street.mp3" length="6907040" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-ar-gulf-2026-11-24-12</guid>
+      <pubDate>Fri, 13 Nov 2026 16:22:00 +0400</pubDate>
+      <itunes:duration>863</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>French 12: Tech talk: a short status update on a cloud migration</title>
+      <description>French, lesson 12 (office): Tech talk: a short status update on a cloud migration
+
+New phrases:
+• Le projet avance bien. = The project is going well.
+• Nous migrons vers le cloud. = We are migrating to the cloud.
+• La migration a commencé. = The migration has started.
+• Nous avons un petit retard. = We have a small delay.
+• Les données sont déjà migrées. = The data is already migrated.
+• Il reste quelques applications. = A few applications remain.
+• Nous avons besoin de plus de temps. = We need more time.
+• Tout sera terminé le mois prochain. = Everything will be finished next month.
+
+Practise in Claude voice mode (copy this):
+Let's role-play a short office meeting in French. You are my colleague asking for a status update on a cloud migration, and I am the project lead. Speak slowly, use short simple sentences, and keep your turns brief. Correct only one mistake at a time, gently, then let me try again.</description>
+      <content:encoded>&lt;p&gt;French, lesson 12 (office): Tech talk: a short status update on a cloud migration&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Le projet avance bien. = The project is going well.&lt;br/&gt;• Nous migrons vers le cloud. = We are migrating to the cloud.&lt;br/&gt;• La migration a commencé. = The migration has started.&lt;br/&gt;• Nous avons un petit retard. = We have a small delay.&lt;br/&gt;• Les données sont déjà migrées. = The data is already migrated.&lt;br/&gt;• Il reste quelques applications. = A few applications remain.&lt;br/&gt;• Nous avons besoin de plus de temps. = We need more time.&lt;br/&gt;• Tout sera terminé le mois prochain. = Everything will be finished next month.&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play a short office meeting in French. You are my colleague asking for a status update on a cloud migration, and I am the project lead. Speak slowly, use short simple sentences, and keep your turns brief. Correct only one mistake at a time, gently, then let me try again.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-24-fr-012-office.mp3" length="5701832" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-fr-2026-11-24-12</guid>
+      <pubDate>Fri, 13 Nov 2026 16:21:00 +0400</pubDate>
+      <itunes:duration>712</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gulf Arabic (Khaleeji) 11: Tech talk: a short project update in a meeting (ERP and data)</title>
+      <description>Gulf Arabic (Khaleeji), lesson 11 (office): Tech talk: a short project update in a meeting (ERP and data)
+
+New phrases:
+• المشروع ماشي زين. (al-mashroo3 maashi zain.) = The project is going well.
+• خلصنا نقل البيانات. (khallasna naql al-bayaanaat.) = We finished transferring the data.
+• باقي الاختبار بس. (baagi al-ikhtibaar bas.) = Only the testing is left.
+• ما في مشكلة كبيرة، بس في تأخير بسيط. (maa fi mushkila kabeera, bas fi ta'kheer baseet.) = There is no big problem, just a small delay.
+• السيستم الجديد أسرع من القديم. (as-system al-jadeed asra3 min al-qadeem.) = The new system is faster than the old one.
+• نبي أسبوع زيادة عشان نراجع البيانات. (nabi usboo3 ziyaada 3shaan nraaji3 al-bayaanaat.) = We need one more week to review the data.
+• اليوم أقدم لكم تحديثاً قصيراً عن مشروع نظام تخطيط الموارد. (al-yawm uqaddim lakum tahdeethan qaseeran 3an mashroo3 nizaam takhteet al-mawaarid.) = Today I will give you a short update on the resource planning system project. [formal Arabic, for presentations]
+• إذا ما عندكم ملاحظات، بنبدأ التشغيل الأسبوع الجاي. (idha maa 3indkum mulaahazaat, binabda' at-tashgheel al-usboo3 al-jaay.) = If you have no comments, we will start going live next week.
+
+Practise in Claude voice mode (copy this):
+Let's role-play a short project update meeting about a new ERP system and data migration, in Gulf Arabic (Khaleeji), not formal Arabic. You play my manager and ask me about progress, problems and the timeline, and I answer as myself. Speak slowly, use simple sentences, and keep your turns short. Correct only one mistake at a time, and tell me a short model sentence to repeat.
+
+Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.</description>
+      <content:encoded>&lt;p&gt;Gulf Arabic (Khaleeji), lesson 11 (office): Tech talk: a short project update in a meeting (ERP and data)&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• المشروع ماشي زين. (al-mashroo3 maashi zain.) = The project is going well.&lt;br/&gt;• خلصنا نقل البيانات. (khallasna naql al-bayaanaat.) = We finished transferring the data.&lt;br/&gt;• باقي الاختبار بس. (baagi al-ikhtibaar bas.) = Only the testing is left.&lt;br/&gt;• ما في مشكلة كبيرة، بس في تأخير بسيط. (maa fi mushkila kabeera, bas fi ta&amp;#x27;kheer baseet.) = There is no big problem, just a small delay.&lt;br/&gt;• السيستم الجديد أسرع من القديم. (as-system al-jadeed asra3 min al-qadeem.) = The new system is faster than the old one.&lt;br/&gt;• نبي أسبوع زيادة عشان نراجع البيانات. (nabi usboo3 ziyaada 3shaan nraaji3 al-bayaanaat.) = We need one more week to review the data.&lt;br/&gt;• اليوم أقدم لكم تحديثاً قصيراً عن مشروع نظام تخطيط الموارد. (al-yawm uqaddim lakum tahdeethan qaseeran 3an mashroo3 nizaam takhteet al-mawaarid.) = Today I will give you a short update on the resource planning system project. [formal Arabic, for presentations]&lt;br/&gt;• إذا ما عندكم ملاحظات، بنبدأ التشغيل الأسبوع الجاي. (idha maa 3indkum mulaahazaat, binabda&amp;#x27; at-tashgheel al-usboo3 al-jaay.) = If you have no comments, we will start going live next week.&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play a short project update meeting about a new ERP system and data migration, in Gulf Arabic (Khaleeji), not formal Arabic. You play my manager and ask me about progress, problems and the timeline, and I answer as myself. Speak slowly, use simple sentences, and keep your turns short. Correct only one mistake at a time, and tell me a short model sentence to repeat.&lt;br/&gt;&lt;br/&gt;Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-23-ar-gulf-011-office.mp3" length="7214884" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-ar-gulf-2026-11-23-11</guid>
+      <pubDate>Fri, 13 Nov 2026 16:20:00 +0400</pubDate>
+      <itunes:duration>901</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>French 11: Travel: at the airport, check-in and boarding</title>
+      <description>French, lesson 11 (street): Travel: at the airport, check-in and boarding
+
+New phrases:
+• Voici mon passeport. = Here's my passport.
+• J'ai une valise à enregistrer. = I have a suitcase to check in.
+• Où est la porte d'embarquement ? = Where is the boarding gate?
+• Le vol a du retard ? = Is the flight delayed?
+• À quelle heure est l'embarquement ? = What time is boarding?
+• Je voudrais une place côté couloir. = I'd like an aisle seat.
+• Je n'ai qu'un bagage à main. = I only have carry-on luggage.
+• Où est-ce que je peux enregistrer ma valise ? = Where can I check in my suitcase?
+
+Practise in Claude voice mode (copy this):
+Let's role-play an airport check-in in French. You are the airline agent and I'm a traveler. Speak slowly, use short simple sentences, and use vous. Correct only one mistake at a time, gently, then continue. Keep my replies short, and wait for me to answer each time.</description>
+      <content:encoded>&lt;p&gt;French, lesson 11 (street): Travel: at the airport, check-in and boarding&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Voici mon passeport. = Here&amp;#x27;s my passport.&lt;br/&gt;• J&amp;#x27;ai une valise à enregistrer. = I have a suitcase to check in.&lt;br/&gt;• Où est la porte d&amp;#x27;embarquement ? = Where is the boarding gate?&lt;br/&gt;• Le vol a du retard ? = Is the flight delayed?&lt;br/&gt;• À quelle heure est l&amp;#x27;embarquement ? = What time is boarding?&lt;br/&gt;• Je voudrais une place côté couloir. = I&amp;#x27;d like an aisle seat.&lt;br/&gt;• Je n&amp;#x27;ai qu&amp;#x27;un bagage à main. = I only have carry-on luggage.&lt;br/&gt;• Où est-ce que je peux enregistrer ma valise ? = Where can I check in my suitcase?&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play an airport check-in in French. You are the airline agent and I&amp;#x27;m a traveler. Speak slowly, use short simple sentences, and use vous. Correct only one mistake at a time, gently, then continue. Keep my replies short, and wait for me to answer each time.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-23-fr-011-street.mp3" length="5495143" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-fr-2026-11-23-11</guid>
+      <pubDate>Fri, 13 Nov 2026 16:19:00 +0400</pubDate>
+      <itunes:duration>686</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gulf Arabic (Khaleeji) 10: Travel: at the airport, check-in, luggage and the gate</title>
+      <description>Gulf Arabic (Khaleeji), lesson 10 (street): Travel: at the airport, check-in, luggage and the gate
+
+New phrases:
+• وين البوابة، لو سمحت؟ (wayn el-bawwaaba, law samaHt?) = Where is the gate, please?
+• هذا جوازي وهذي تذكرتي. (haatha jawaazi w haathi tathkirti.) = This is my passport and this is my ticket.
+• عندي شنطة وحدة بس. ('indi shanta waaHda bas.) = I have just one bag.
+• أبي مقعد عند الشباك، لو سمحت. (abi maq'ad 'ind esh-shubbaak, law samaHt.) = I'd like a window seat, please.
+• أقدر آخذ هالشنطة الصغيرة معي في الطيارة؟ (aqdar aakhith hash-shanta eS-Sghayra ma'i fiT-Tayyaara?) = Can I take this small bag with me on the plane?
+• الرحلة متأخرة وإلا في وقتها؟ (er-riHla mit'akhkhra wila fi waqtha?) = Is the flight delayed, or on time?
+• شنطتي ما طلعت، وين أقدر أسأل عنها؟ (shantati ma Tala't, wayn aqdar as'al 'anha?) = My bag didn't come out. Where can I ask about it?
+• فاتتني الرحلة، تقدر تحجز لي على الرحلة الجاية؟ (faatatni er-riHla, tiqdar tiHjiz li 'ala er-riHla ej-jaaya?) = I missed my flight. Can you book me on the next one?
+
+Practise in Claude voice mode (copy this):
+Let's role-play an airport in Gulf Arabic (Khaleeji, Emirati style), not formal Arabic. You are the check-in agent and I am a traveler: ask for my passport, my bags and my seat, then help me find the gate. Speak slowly, use short simple sentences, and keep my replies short too. Correct only one mistake at a time, give me the right sentence to repeat, then continue the conversation.
+
+Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.</description>
+      <content:encoded>&lt;p&gt;Gulf Arabic (Khaleeji), lesson 10 (street): Travel: at the airport, check-in, luggage and the gate&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• وين البوابة، لو سمحت؟ (wayn el-bawwaaba, law samaHt?) = Where is the gate, please?&lt;br/&gt;• هذا جوازي وهذي تذكرتي. (haatha jawaazi w haathi tathkirti.) = This is my passport and this is my ticket.&lt;br/&gt;• عندي شنطة وحدة بس. (&amp;#x27;indi shanta waaHda bas.) = I have just one bag.&lt;br/&gt;• أبي مقعد عند الشباك، لو سمحت. (abi maq&amp;#x27;ad &amp;#x27;ind esh-shubbaak, law samaHt.) = I&amp;#x27;d like a window seat, please.&lt;br/&gt;• أقدر آخذ هالشنطة الصغيرة معي في الطيارة؟ (aqdar aakhith hash-shanta eS-Sghayra ma&amp;#x27;i fiT-Tayyaara?) = Can I take this small bag with me on the plane?&lt;br/&gt;• الرحلة متأخرة وإلا في وقتها؟ (er-riHla mit&amp;#x27;akhkhra wila fi waqtha?) = Is the flight delayed, or on time?&lt;br/&gt;• شنطتي ما طلعت، وين أقدر أسأل عنها؟ (shantati ma Tala&amp;#x27;t, wayn aqdar as&amp;#x27;al &amp;#x27;anha?) = My bag didn&amp;#x27;t come out. Where can I ask about it?&lt;br/&gt;• فاتتني الرحلة، تقدر تحجز لي على الرحلة الجاية؟ (faatatni er-riHla, tiqdar tiHjiz li &amp;#x27;ala er-riHla ej-jaaya?) = I missed my flight. Can you book me on the next one?&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play an airport in Gulf Arabic (Khaleeji, Emirati style), not formal Arabic. You are the check-in agent and I am a traveler: ask for my passport, my bags and my seat, then help me find the gate. Speak slowly, use short simple sentences, and keep my replies short too. Correct only one mistake at a time, give me the right sentence to repeat, then continue the conversation.&lt;br/&gt;&lt;br/&gt;Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-22-ar-gulf-010-street.mp3" length="7288020" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-ar-gulf-2026-11-22-10</guid>
+      <pubDate>Fri, 13 Nov 2026 16:18:00 +0400</pubDate>
+      <itunes:duration>910</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>French 10: Tech talk: explaining what my team does (applications, data and AI)</title>
+      <description>French, lesson 10 (office): Tech talk: explaining what my team does (applications, data and AI)
+
+New phrases:
+• Je dirige une équipe. = I lead a team.
+• Nous créons des applications. = We create applications.
+• Nous travaillons avec des données. = We work with data.
+• Nous utilisons l'intelligence artificielle. = We use artificial intelligence.
+• Notre but est de gagner du temps. = Our goal is to save time.
+• Les données nous aident à décider. = Data helps us decide.
+• L'intelligence artificielle automatise les tâches simples. = Artificial intelligence automates simple tasks.
+• Je vais vous expliquer ce que nous faisons. = I'll explain what we do.
+
+Practise in Claude voice mode (copy this):
+Let's role-play in French at a beginner level: I'm at a professional event and a colleague asks me what my team does, covering applications, data and artificial intelligence. Please play the colleague, use vous, speak slowly, and ask short questions. Keep my replies short, correct only one mistake at a time, and then continue the conversation.</description>
+      <content:encoded>&lt;p&gt;French, lesson 10 (office): Tech talk: explaining what my team does (applications, data and AI)&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Je dirige une équipe. = I lead a team.&lt;br/&gt;• Nous créons des applications. = We create applications.&lt;br/&gt;• Nous travaillons avec des données. = We work with data.&lt;br/&gt;• Nous utilisons l&amp;#x27;intelligence artificielle. = We use artificial intelligence.&lt;br/&gt;• Notre but est de gagner du temps. = Our goal is to save time.&lt;br/&gt;• Les données nous aident à décider. = Data helps us decide.&lt;br/&gt;• L&amp;#x27;intelligence artificielle automatise les tâches simples. = Artificial intelligence automates simple tasks.&lt;br/&gt;• Je vais vous expliquer ce que nous faisons. = I&amp;#x27;ll explain what we do.&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play in French at a beginner level: I&amp;#x27;m at a professional event and a colleague asks me what my team does, covering applications, data and artificial intelligence. Please play the colleague, use vous, speak slowly, and ask short questions. Keep my replies short, correct only one mistake at a time, and then continue the conversation.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-22-fr-010-office.mp3" length="5768928" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-fr-2026-11-22-10</guid>
+      <pubDate>Fri, 13 Nov 2026 16:17:00 +0400</pubDate>
+      <itunes:duration>720</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gulf Arabic (Khaleeji) 9: Tech talk: telling a colleague the system is down and when it will be fixed</title>
+      <description>Gulf Arabic (Khaleeji), lesson 9 (office): Tech talk: telling a colleague the system is down and when it will be fixed
+
+New phrases:
+• السيستم خربان. (as-sistim kharbaan.) = The system is down.
+• السيستم ما يشتغل من الصبح. (as-sistim ma yishtaghil min iS-Subuh.) = The system hasn't been working since the morning.
+• الفريق يشتغل على المشكلة الحين. (al-fareeg yishtaghil ʿala l-mushkila il-heen.) = The team is working on the problem now.
+• متى بيرجع السيستم يشتغل؟ (mita bi-yirjaʿ as-sistim yishtaghil?) = When will the system start working again?
+• إن شاء الله يرجع بعد ساعة. (in shaa Allah yirjaʿ baʿd saaʿa.) = God willing, it will be back in an hour.
+• ما أدري بالضبط، بس بخبرك أول ما يخلص. (ma adri bi-D-Dabt, bas bakhbirak awwal ma yikhlaS.) = I don't know exactly, but I'll tell you as soon as it's done.
+• رسلت تذكرة للدعم الفني، وهم يتابعون الموضوع. (rasalt tadhkira lid-daʿam al-fanni, w-humma yitaabiʿoon al-mawDooʿ.) = I sent a ticket to technical support, and they are following up on it.
+• المشكلة من السيرفر، والمفروض تنحل قبل الظهر. (al-mushkila min as-sarfar, wal-mafrooD tinhall gabl iD-Duhur.) = The problem is from the server, and it should be solved before noon.
+
+Practise in Claude voice mode (copy this):
+Let's role-play an office situation in Gulf Arabic (Khaleeji, not formal Arabic): I'm telling a colleague that the system is down and when it should be fixed, and you play the colleague who asks questions. Speak slowly, use short simple sentences, and keep my replies short. Correct only one mistake at a time, give me the corrected sentence to repeat, then carry on with the conversation.
+
+Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.</description>
+      <content:encoded>&lt;p&gt;Gulf Arabic (Khaleeji), lesson 9 (office): Tech talk: telling a colleague the system is down and when it will be fixed&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• السيستم خربان. (as-sistim kharbaan.) = The system is down.&lt;br/&gt;• السيستم ما يشتغل من الصبح. (as-sistim ma yishtaghil min iS-Subuh.) = The system hasn&amp;#x27;t been working since the morning.&lt;br/&gt;• الفريق يشتغل على المشكلة الحين. (al-fareeg yishtaghil ʿala l-mushkila il-heen.) = The team is working on the problem now.&lt;br/&gt;• متى بيرجع السيستم يشتغل؟ (mita bi-yirjaʿ as-sistim yishtaghil?) = When will the system start working again?&lt;br/&gt;• إن شاء الله يرجع بعد ساعة. (in shaa Allah yirjaʿ baʿd saaʿa.) = God willing, it will be back in an hour.&lt;br/&gt;• ما أدري بالضبط، بس بخبرك أول ما يخلص. (ma adri bi-D-Dabt, bas bakhbirak awwal ma yikhlaS.) = I don&amp;#x27;t know exactly, but I&amp;#x27;ll tell you as soon as it&amp;#x27;s done.&lt;br/&gt;• رسلت تذكرة للدعم الفني، وهم يتابعون الموضوع. (rasalt tadhkira lid-daʿam al-fanni, w-humma yitaabiʿoon al-mawDooʿ.) = I sent a ticket to technical support, and they are following up on it.&lt;br/&gt;• المشكلة من السيرفر، والمفروض تنحل قبل الظهر. (al-mushkila min as-sarfar, wal-mafrooD tinhall gabl iD-Duhur.) = The problem is from the server, and it should be solved before noon.&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play an office situation in Gulf Arabic (Khaleeji, not formal Arabic): I&amp;#x27;m telling a colleague that the system is down and when it should be fixed, and you play the colleague who asks questions. Speak slowly, use short simple sentences, and keep my replies short. Correct only one mistake at a time, give me the corrected sentence to repeat, then carry on with the conversation.&lt;br/&gt;&lt;br/&gt;Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-21-ar-gulf-009-office.mp3" length="6977078" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-ar-gulf-2026-11-21-9</guid>
+      <pubDate>Fri, 13 Nov 2026 16:16:00 +0400</pubDate>
+      <itunes:duration>871</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>French 9: Meeting someone new: where you're from, what you do</title>
+      <description>French, lesson 9 (street): Meeting someone new: where you're from, what you do
+
+New phrases:
+• Tu viens d'où ? = Where are you from?
+• Je viens de Lyon. = I come from Lyon.
+• Ça a l'air intéressant ! = That sounds interesting!
+• Je travaille dans l'informatique. = I work in IT.
+• Je suis ici depuis un an. = I've been here for a year.
+• Tu parles très bien français ! = You speak French very well!
+• Tu habites ici depuis longtemps ? = Have you lived here for a long time?
+• Qu'est-ce que tu fais dans la vie ? = What do you do for a living?
+
+Practise in Claude voice mode (copy this):
+Let's role-play in French: I've just met you outside and we're getting to know each other, talking about where we're from and what we do. Speak slowly, use short simple sentences, and use tu. Correct only one mistake at a time, gently, then carry on. Keep your replies short so I can answer out loud.</description>
+      <content:encoded>&lt;p&gt;French, lesson 9 (street): Meeting someone new: where you&amp;#x27;re from, what you do&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Tu viens d&amp;#x27;où ? = Where are you from?&lt;br/&gt;• Je viens de Lyon. = I come from Lyon.&lt;br/&gt;• Ça a l&amp;#x27;air intéressant ! = That sounds interesting!&lt;br/&gt;• Je travaille dans l&amp;#x27;informatique. = I work in IT.&lt;br/&gt;• Je suis ici depuis un an. = I&amp;#x27;ve been here for a year.&lt;br/&gt;• Tu parles très bien français ! = You speak French very well!&lt;br/&gt;• Tu habites ici depuis longtemps ? = Have you lived here for a long time?&lt;br/&gt;• Qu&amp;#x27;est-ce que tu fais dans la vie ? = What do you do for a living?&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play in French: I&amp;#x27;ve just met you outside and we&amp;#x27;re getting to know each other, talking about where we&amp;#x27;re from and what we do. Speak slowly, use short simple sentences, and use tu. Correct only one mistake at a time, gently, then carry on. Keep your replies short so I can answer out loud.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-21-fr-009-street.mp3" length="5423468" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-fr-2026-11-21-9</guid>
+      <pubDate>Fri, 13 Nov 2026 16:15:00 +0400</pubDate>
+      <itunes:duration>677</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>French 8: Asking someone to slow down or repeat</title>
+      <description>French, lesson 8 (street): Asking someone to slow down or repeat
+
+New phrases:
+• Je ne comprends pas. = I don't understand.
+• Pardon, je n'ai pas compris. = Sorry, I didn't understand.
+• Plus lentement, s'il vous plaît. = More slowly, please.
+• Encore une fois, s'il vous plaît. = One more time, please.
+• Qu'est-ce que ça veut dire ? = What does that mean?
+• Vous pouvez parler plus lentement ? = Can you speak more slowly?
+• Comment ça s'écrit ? = How do you spell that?
+• Vous parlez trop vite pour moi. = You speak too fast for me.
+
+Practise in Claude voice mode (copy this):
+Let's role-play in French at a beginner level: you are a friendly stranger on the street in a French-speaking city, and you speak quickly so I have to ask you to slow down or repeat. Speak slowly, use short sentences, and keep your replies brief. Correct only one mistake at a time, giving me the right sentence to repeat. Practise phrases like "Pardon, je n'ai pas compris" and "Plus lentement, s'il vous plaît."</description>
+      <content:encoded>&lt;p&gt;French, lesson 8 (street): Asking someone to slow down or repeat&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Je ne comprends pas. = I don&amp;#x27;t understand.&lt;br/&gt;• Pardon, je n&amp;#x27;ai pas compris. = Sorry, I didn&amp;#x27;t understand.&lt;br/&gt;• Plus lentement, s&amp;#x27;il vous plaît. = More slowly, please.&lt;br/&gt;• Encore une fois, s&amp;#x27;il vous plaît. = One more time, please.&lt;br/&gt;• Qu&amp;#x27;est-ce que ça veut dire ? = What does that mean?&lt;br/&gt;• Vous pouvez parler plus lentement ? = Can you speak more slowly?&lt;br/&gt;• Comment ça s&amp;#x27;écrit ? = How do you spell that?&lt;br/&gt;• Vous parlez trop vite pour moi. = You speak too fast for me.&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play in French at a beginner level: you are a friendly stranger on the street in a French-speaking city, and you speak quickly so I have to ask you to slow down or repeat. Speak slowly, use short sentences, and keep your replies brief. Correct only one mistake at a time, giving me the right sentence to repeat. Practise phrases like &amp;quot;Pardon, je n&amp;#x27;ai pas compris&amp;quot; and &amp;quot;Plus lentement, s&amp;#x27;il vous plaît.&amp;quot;&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-20-fr-008-street.mp3" length="5511016" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-fr-2026-11-20-8</guid>
+      <pubDate>Fri, 13 Nov 2026 16:13:00 +0400</pubDate>
+      <itunes:duration>688</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gulf Arabic (Khaleeji) 8: Small talk: weather and the weekend</title>
+      <description>Gulf Arabic (Khaleeji), lesson 8 (street): Small talk: weather and the weekend
+
+New phrases:
+• الجو حار اليوم. (al-jaw haar al-yoom.) = The weather is hot today.
+• الجو حلو اليوم، صح؟ (al-jaw helw al-yoom, sah?) = The weather is nice today, isn't it?
+• الدنيا رطوبة مرة هالأيام. (ad-dunya rutooba marra hal-ayyaam.) = It's very humid these days.
+• الحمد لله، الجو بدأ يبرد شوي. (al-hamdulillah, al-jaw bada yabrid shwayy.) = Thank God, the weather has started to cool down a bit.
+• شو بتسوي في الويكند؟ (shu betsawwi fil weekend?) = What are you going to do this weekend?
+• ما عندي شي، بس بجلس في البيت. (ma indi shay, bas bajlis fil bayt.) = I have nothing planned, I'll just stay at home.
+• نبي نروح البحر يوم الجمعة، تبي تيي ويانا؟ (nabi nrooh al-bahar yoom al-jumea, tabi teyi wayyaana?) = We want to go to the beach on Friday, do you want to come with us?
+• شلون كان الويكند؟ سويت شي حلو؟ (shlon kaan al-weekend? sawwayt shay helw?) = How was the weekend? Did you do anything nice?
+
+Practise in Claude voice mode (copy this):
+Let's role-play a casual street chat in Gulf Arabic (Khaleeji, Emirati style) about the weather and weekend plans. Play a friendly acquaintance I meet outside, speak slowly, and use short, simple sentences. Wait for my reply each time, keep your turns short, and correct only one mistake at a time, then repeat the corrected sentence for me to say again.
+
+Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.</description>
+      <content:encoded>&lt;p&gt;Gulf Arabic (Khaleeji), lesson 8 (street): Small talk: weather and the weekend&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• الجو حار اليوم. (al-jaw haar al-yoom.) = The weather is hot today.&lt;br/&gt;• الجو حلو اليوم، صح؟ (al-jaw helw al-yoom, sah?) = The weather is nice today, isn&amp;#x27;t it?&lt;br/&gt;• الدنيا رطوبة مرة هالأيام. (ad-dunya rutooba marra hal-ayyaam.) = It&amp;#x27;s very humid these days.&lt;br/&gt;• الحمد لله، الجو بدأ يبرد شوي. (al-hamdulillah, al-jaw bada yabrid shwayy.) = Thank God, the weather has started to cool down a bit.&lt;br/&gt;• شو بتسوي في الويكند؟ (shu betsawwi fil weekend?) = What are you going to do this weekend?&lt;br/&gt;• ما عندي شي، بس بجلس في البيت. (ma indi shay, bas bajlis fil bayt.) = I have nothing planned, I&amp;#x27;ll just stay at home.&lt;br/&gt;• نبي نروح البحر يوم الجمعة، تبي تيي ويانا؟ (nabi nrooh al-bahar yoom al-jumea, tabi teyi wayyaana?) = We want to go to the beach on Friday, do you want to come with us?&lt;br/&gt;• شلون كان الويكند؟ سويت شي حلو؟ (shlon kaan al-weekend? sawwayt shay helw?) = How was the weekend? Did you do anything nice?&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play a casual street chat in Gulf Arabic (Khaleeji, Emirati style) about the weather and weekend plans. Play a friendly acquaintance I meet outside, speak slowly, and use short, simple sentences. Wait for my reply each time, keep your turns short, and correct only one mistake at a time, then repeat the corrected sentence for me to say again.&lt;br/&gt;&lt;br/&gt;Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-20-ar-gulf-008-street.mp3" length="6583321" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-ar-gulf-2026-11-20-8</guid>
+      <pubDate>Fri, 13 Nov 2026 16:14:00 +0400</pubDate>
+      <itunes:duration>822</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>French 7: Shopping: sizes, prices, trying things on</title>
+      <description>French, lesson 7 (street): Shopping: sizes, prices, trying things on
+
+New phrases:
+• Je regarde, merci. = I'm just looking, thanks.
+• C'est un peu trop petit. = It's a bit too small.
+• Je peux l'essayer ? = Can I try it on?
+• Vous avez ça en bleu ? = Do you have this in blue?
+• Je le prends, merci. = I'll take it, thanks.
+• Où sont les cabines d'essayage ? = Where are the fitting rooms?
+• Vous avez une taille plus grande ? = Do you have a bigger size?
+• Vous avez quelque chose de moins cher ? = Do you have something cheaper?
+
+Practise in Claude voice mode (copy this):
+Let's role-play a clothes shop in French. You are the shop assistant and I am a customer. Speak slowly, use short simple sentences, and address me with vous. Keep my replies short, correct only one mistake at a time, and then continue the conversation.</description>
+      <content:encoded>&lt;p&gt;French, lesson 7 (street): Shopping: sizes, prices, trying things on&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Je regarde, merci. = I&amp;#x27;m just looking, thanks.&lt;br/&gt;• C&amp;#x27;est un peu trop petit. = It&amp;#x27;s a bit too small.&lt;br/&gt;• Je peux l&amp;#x27;essayer ? = Can I try it on?&lt;br/&gt;• Vous avez ça en bleu ? = Do you have this in blue?&lt;br/&gt;• Je le prends, merci. = I&amp;#x27;ll take it, thanks.&lt;br/&gt;• Où sont les cabines d&amp;#x27;essayage ? = Where are the fitting rooms?&lt;br/&gt;• Vous avez une taille plus grande ? = Do you have a bigger size?&lt;br/&gt;• Vous avez quelque chose de moins cher ? = Do you have something cheaper?&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play a clothes shop in French. You are the shop assistant and I am a customer. Speak slowly, use short simple sentences, and address me with vous. Keep my replies short, correct only one mistake at a time, and then continue the conversation.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-19-fr-007-street.mp3" length="5459193" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-fr-2026-11-19-7</guid>
+      <pubDate>Fri, 13 Nov 2026 16:10:00 +0400</pubDate>
+      <itunes:duration>682</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Norwegian Bokmål 4: Ordering food and asking about ingredients</title>
+      <description>Norwegian Bokmål, lesson 4 (street): Ordering food and asking about ingredients
+
+New phrases:
+• Kan jeg få menyen, takk? = Can I have the menu, please?
+• Jeg vil gjerne ha fisk og poteter. = I'd like fish and potatoes.
+• Hva er det i denne retten? = What is in this dish?
+• Er det nøtter i denne retten? = Are there nuts in this dish?
+• Kan jeg få den uten løk? = Can I have it without onion?
+• Har dere noe som passer for barn? = Do you have something that suits children?
+
+Practise in Claude voice mode (copy this):
+Let's role-play ordering food at a restaurant in Norway, in Norwegian Bokmål. You are the waiter and I am a tourist; I'm a beginner, so speak slowly and use short, simple sentences. Ask me what I'd like, and let me ask about ingredients, nuts, onion and food for children. Correct only one mistake at a time, give me the right sentence to repeat, and keep your own replies short.</description>
+      <content:encoded>&lt;p&gt;Norwegian Bokmål, lesson 4 (street): Ordering food and asking about ingredients&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Kan jeg få menyen, takk? = Can I have the menu, please?&lt;br/&gt;• Jeg vil gjerne ha fisk og poteter. = I&amp;#x27;d like fish and potatoes.&lt;br/&gt;• Hva er det i denne retten? = What is in this dish?&lt;br/&gt;• Er det nøtter i denne retten? = Are there nuts in this dish?&lt;br/&gt;• Kan jeg få den uten løk? = Can I have it without onion?&lt;br/&gt;• Har dere noe som passer for barn? = Do you have something that suits children?&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play ordering food at a restaurant in Norway, in Norwegian Bokmål. You are the waiter and I am a tourist; I&amp;#x27;m a beginner, so speak slowly and use short, simple sentences. Ask me what I&amp;#x27;d like, and let me ask about ingredients, nuts, onion and food for children. Correct only one mistake at a time, give me the right sentence to repeat, and keep your own replies short.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-19-no-004-street.mp3" length="3774521" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-no-2026-11-19-4</guid>
+      <pubDate>Fri, 13 Nov 2026 16:12:00 +0400</pubDate>
+      <itunes:duration>471</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gulf Arabic (Khaleeji) 7: Asking how someone's family is</title>
+      <description>Gulf Arabic (Khaleeji), lesson 7 (office): Asking how someone's family is
+
+New phrases:
+• شخبار أهلك؟ (shakhbaar ahlak?) = How is your family?
+• الأهل بخير، الحمد لله. (al-ahl bikhayr, al-hamdulillah.) = The family is well, thank God.
+• عندك عيال؟ (andak iyaal?) = Do you have children?
+• شخبار الوالد والوالدة؟ (shakhbaar al-waalid wal-waalida?) = How are your father and mother?
+• الله يسلمك، كلهم بخير. (Allah yisallimak, kullhum bikhayr.) = God bless you, they are all well.
+• سلّم لي على أهلك. (sallim li ala ahlak.) = Give my regards to your family.
+• أهلي يسلمون عليك. (ahli yisallimoon alaik.) = My family send you their regards.
+• من زمان ما شفتك، شخبارك وشخبار أهلك؟ (min zamaan ma shuftak, shakhbaarak wa shakhbaar ahlak?) = I haven't seen you in a long time, how are you and how is your family?
+
+Practise in Claude voice mode (copy this):
+Let's role-play an office conversation in Gulf Arabic (Khaleeji), not formal Arabic. You are a friendly colleague and we are chatting about family: asking how each other's family is, asking about parents and children, and sending regards. Speak slowly, use short sentences, and keep my replies short too. Correct only one mistake at a time, then continue the conversation.
+
+Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.</description>
+      <content:encoded>&lt;p&gt;Gulf Arabic (Khaleeji), lesson 7 (office): Asking how someone&amp;#x27;s family is&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• شخبار أهلك؟ (shakhbaar ahlak?) = How is your family?&lt;br/&gt;• الأهل بخير، الحمد لله. (al-ahl bikhayr, al-hamdulillah.) = The family is well, thank God.&lt;br/&gt;• عندك عيال؟ (andak iyaal?) = Do you have children?&lt;br/&gt;• شخبار الوالد والوالدة؟ (shakhbaar al-waalid wal-waalida?) = How are your father and mother?&lt;br/&gt;• الله يسلمك، كلهم بخير. (Allah yisallimak, kullhum bikhayr.) = God bless you, they are all well.&lt;br/&gt;• سلّم لي على أهلك. (sallim li ala ahlak.) = Give my regards to your family.&lt;br/&gt;• أهلي يسلمون عليك. (ahli yisallimoon alaik.) = My family send you their regards.&lt;br/&gt;• من زمان ما شفتك، شخبارك وشخبار أهلك؟ (min zamaan ma shuftak, shakhbaarak wa shakhbaar ahlak?) = I haven&amp;#x27;t seen you in a long time, how are you and how is your family?&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play an office conversation in Gulf Arabic (Khaleeji), not formal Arabic. You are a friendly colleague and we are chatting about family: asking how each other&amp;#x27;s family is, asking about parents and children, and sending regards. Speak slowly, use short sentences, and keep my replies short too. Correct only one mistake at a time, then continue the conversation.&lt;br/&gt;&lt;br/&gt;Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-19-ar-gulf-007-office.mp3" length="6288863" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-ar-gulf-2026-11-19-7</guid>
+      <pubDate>Fri, 13 Nov 2026 16:11:00 +0400</pubDate>
+      <itunes:duration>785</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>French 6: At a restaurant: booking, ordering, the bill</title>
+      <description>French, lesson 6 (street): At a restaurant: booking, ordering, the bill
+
+New phrases:
+• Une table pour deux, s'il vous plaît. = A table for two, please.
+• Vous avez un menu ? = Do you have a menu?
+• C'est délicieux, merci ! = It's delicious, thank you!
+• Je vais prendre le poulet. = I'll have the chicken.
+• J'ai réservé une table. = I booked a table.
+• Qu'est-ce que vous conseillez ? = What do you recommend?
+• Je voudrais réserver une table pour ce soir. = I'd like to book a table for tonight.
+• On peut payer séparément ? = Can we pay separately?
+
+Practise in Claude voice mode (copy this):
+Let's role-play a restaurant in French: you are the waiter and I am a customer who books a table, orders a meal and asks for the bill. Speak slowly, use short simple sentences, and wait for my reply each time. If I make a mistake, correct only one thing at a time, then continue. Keep your own replies short, and speak mostly French with English only if I'm stuck.</description>
+      <content:encoded>&lt;p&gt;French, lesson 6 (street): At a restaurant: booking, ordering, the bill&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Une table pour deux, s&amp;#x27;il vous plaît. = A table for two, please.&lt;br/&gt;• Vous avez un menu ? = Do you have a menu?&lt;br/&gt;• C&amp;#x27;est délicieux, merci ! = It&amp;#x27;s delicious, thank you!&lt;br/&gt;• Je vais prendre le poulet. = I&amp;#x27;ll have the chicken.&lt;br/&gt;• J&amp;#x27;ai réservé une table. = I booked a table.&lt;br/&gt;• Qu&amp;#x27;est-ce que vous conseillez ? = What do you recommend?&lt;br/&gt;• Je voudrais réserver une table pour ce soir. = I&amp;#x27;d like to book a table for tonight.&lt;br/&gt;• On peut payer séparément ? = Can we pay separately?&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play a restaurant in French: you are the waiter and I am a customer who books a table, orders a meal and asks for the bill. Speak slowly, use short simple sentences, and wait for my reply each time. If I make a mistake, correct only one thing at a time, then continue. Keep your own replies short, and speak mostly French with English only if I&amp;#x27;m stuck.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-18-fr-006-street.mp3" length="5541534" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-fr-2026-11-18-6</guid>
+      <pubDate>Fri, 13 Nov 2026 16:08:00 +0400</pubDate>
+      <itunes:duration>692</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gulf Arabic (Khaleeji) 6: Taxi, metro and buses</title>
+      <description>Gulf Arabic (Khaleeji), lesson 6 (street): Taxi, metro and buses
+
+New phrases:
+• أبي تاكسي، لو سمحت. (abi taaksi, law samaht.) = I need a taxi, please.
+• خذني إلى دبي مول، لو سمحت. (khidhni ila dubai mol, law samaht.) = Take me to Dubai Mall, please.
+• كم يطلع الحساب تقريباً؟ (kam yitla3 il-hisaab taqreeban?) = About how much will it come to?
+• وقف هني، لو سمحت. (wagif hni, law samaht.) = Stop here, please.
+• أي باص يروح المارينا؟ (ay baas yrooh il-mareena?) = Which bus goes to the Marina?
+• وين أقدر أشتري بطاقة نول؟ (ween agdar ashtiri bitaaga nool?) = Where can I buy a Nol card?
+• المحطة الجاية هي محطة المارينا؟ (il-mahatta il-jaaya hiya mahattat il-mareena?) = Is the next station the Marina station?
+• الله يعطيك العافية، شكراً على التوصيلة. (allah y3teek il-3aafya, shukran 3ala it-tawseela.) = Thank you for the ride, God give you strength.
+
+Practise in Claude voice mode (copy this):
+Let's role-play in Gulf Arabic, Khaleeji dialect, not formal Arabic. You are a taxi driver or a person at a metro station in Dubai, and I am a passenger asking for rides, prices, buses and stations. Speak slowly with short sentences, correct only one mistake at a time, and keep your replies short so I can answer out loud.
+
+Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.</description>
+      <content:encoded>&lt;p&gt;Gulf Arabic (Khaleeji), lesson 6 (street): Taxi, metro and buses&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• أبي تاكسي، لو سمحت. (abi taaksi, law samaht.) = I need a taxi, please.&lt;br/&gt;• خذني إلى دبي مول، لو سمحت. (khidhni ila dubai mol, law samaht.) = Take me to Dubai Mall, please.&lt;br/&gt;• كم يطلع الحساب تقريباً؟ (kam yitla3 il-hisaab taqreeban?) = About how much will it come to?&lt;br/&gt;• وقف هني، لو سمحت. (wagif hni, law samaht.) = Stop here, please.&lt;br/&gt;• أي باص يروح المارينا؟ (ay baas yrooh il-mareena?) = Which bus goes to the Marina?&lt;br/&gt;• وين أقدر أشتري بطاقة نول؟ (ween agdar ashtiri bitaaga nool?) = Where can I buy a Nol card?&lt;br/&gt;• المحطة الجاية هي محطة المارينا؟ (il-mahatta il-jaaya hiya mahattat il-mareena?) = Is the next station the Marina station?&lt;br/&gt;• الله يعطيك العافية، شكراً على التوصيلة. (allah y3teek il-3aafya, shukran 3ala it-tawseela.) = Thank you for the ride, God give you strength.&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play in Gulf Arabic, Khaleeji dialect, not formal Arabic. You are a taxi driver or a person at a metro station in Dubai, and I am a passenger asking for rides, prices, buses and stations. Speak slowly with short sentences, correct only one mistake at a time, and keep your replies short so I can answer out loud.&lt;br/&gt;&lt;br/&gt;Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-18-ar-gulf-006-street.mp3" length="6138389" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-ar-gulf-2026-11-18-6</guid>
+      <pubDate>Fri, 13 Nov 2026 16:09:00 +0400</pubDate>
+      <itunes:duration>767</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>French 5: Small talk: weather and the weekend</title>
+      <description>French, lesson 5 (street): Small talk: weather and the weekend
+
+New phrases:
+• Il fait beau aujourd'hui. = The weather is nice today.
+• Il fait très chaud, non ? = It's very hot, isn't it?
+• Bon week-end ! = Have a good weekend!
+• Tu fais quoi ce week-end ? = What are you doing this weekend?
+• Je me repose à la maison. = I'm resting at home.
+• Tu as passé un bon week-end ? = Did you have a good weekend?
+• Je suis allé à la plage. = I went to the beach.
+• Il va pleuvoir demain, je crois. = I think it's going to rain tomorrow.
+
+Practise in Claude voice mode (copy this):
+Let's role-play in French a casual chat with a friend outdoors about the weather and the weekend. I'm a beginner returning to French, so speak slowly, use short simple sentences, and address me as tu. Correct only one mistake at a time, gently, then continue the conversation. Keep my replies short by asking easy questions I can answer in a few words.</description>
+      <content:encoded>&lt;p&gt;French, lesson 5 (street): Small talk: weather and the weekend&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Il fait beau aujourd&amp;#x27;hui. = The weather is nice today.&lt;br/&gt;• Il fait très chaud, non ? = It&amp;#x27;s very hot, isn&amp;#x27;t it?&lt;br/&gt;• Bon week-end ! = Have a good weekend!&lt;br/&gt;• Tu fais quoi ce week-end ? = What are you doing this weekend?&lt;br/&gt;• Je me repose à la maison. = I&amp;#x27;m resting at home.&lt;br/&gt;• Tu as passé un bon week-end ? = Did you have a good weekend?&lt;br/&gt;• Je suis allé à la plage. = I went to the beach.&lt;br/&gt;• Il va pleuvoir demain, je crois. = I think it&amp;#x27;s going to rain tomorrow.&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play in French a casual chat with a friend outdoors about the weather and the weekend. I&amp;#x27;m a beginner returning to French, so speak slowly, use short simple sentences, and address me as tu. Correct only one mistake at a time, gently, then continue the conversation. Keep my replies short by asking easy questions I can answer in a few words.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-17-fr-005-street.mp3" length="5234325" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-fr-2026-11-17-5</guid>
+      <pubDate>Fri, 13 Nov 2026 16:05:00 +0400</pubDate>
+      <itunes:duration>654</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Norwegian Bokmål 3: Hotel and cabin check-in</title>
+      <description>Norwegian Bokmål, lesson 3 (street): Hotel and cabin check-in
+
+New phrases:
+• Vi har en reservasjon. = We have a reservation.
+• Reservasjonen er på navnet Rambo. = The reservation is under the name Rambo.
+• Når er frokosten? = When is breakfast?
+• Kan vi få to nøkkelkort, takk? = Can we have two key cards, please?
+• Hvordan kommer vi oss til hytta? = How do we get to the cabin?
+• Er det mulig å sjekke inn litt tidligere? = Is it possible to check in a bit earlier?
+
+Practise in Claude voice mode (copy this):
+Let's role-play checking in at a hotel and a cabin in Norway, in Norwegian Bokmål. You are the receptionist and I am a guest on a family holiday. Speak slowly, use short simple sentences, and keep my replies short. Correct only one mistake at a time, then continue the conversation.</description>
+      <content:encoded>&lt;p&gt;Norwegian Bokmål, lesson 3 (street): Hotel and cabin check-in&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Vi har en reservasjon. = We have a reservation.&lt;br/&gt;• Reservasjonen er på navnet Rambo. = The reservation is under the name Rambo.&lt;br/&gt;• Når er frokosten? = When is breakfast?&lt;br/&gt;• Kan vi få to nøkkelkort, takk? = Can we have two key cards, please?&lt;br/&gt;• Hvordan kommer vi oss til hytta? = How do we get to the cabin?&lt;br/&gt;• Er det mulig å sjekke inn litt tidligere? = Is it possible to check in a bit earlier?&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play checking in at a hotel and a cabin in Norway, in Norwegian Bokmål. You are the receptionist and I am a guest on a family holiday. Speak slowly, use short simple sentences, and keep my replies short. Correct only one mistake at a time, then continue the conversation.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-17-no-003-street.mp3" length="3584941" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-no-2026-11-17-3</guid>
+      <pubDate>Fri, 13 Nov 2026 16:07:00 +0400</pubDate>
+      <itunes:duration>447</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gulf Arabic (Khaleeji) 5: Coffee and tea at the office</title>
+      <description>Gulf Arabic (Khaleeji), lesson 5 (office): Coffee and tea at the office
+
+New phrases:
+• تبي قهوة أو شاي؟ (tibi gahwa aw shaay?) = Do you want coffee or tea?
+• أبي شاي بالحليب، لو سمحت. (abi shaay bil-haleeb, law samaht.) = I'd like tea with milk, please.
+• وين المطبخ، لو سمحت؟ (ween il-matbakh, law samaht?) = Where is the kitchen, please?
+• تبي سكر وإلا بدون؟ (tibi sukkar willa bidoon?) = Do you want sugar or none?
+• القهوة طيبة مرة، من سوّاها؟ (il-gahwa tayyiba marra, min sawwaaha?) = The coffee is really good, who made it?
+• أنا أشرب قهوة كل صباح قبل الشغل. (ana ashrab gahwa kull sabaah gabl ish-shughl.) = I drink coffee every morning before work.
+• عندنا وقت قبل الاجتماع، خلنا نشرب قهوة. ( indana wagt gabl il-ijtimaa', khallina nishrab gahwa.) = We have time before the meeting, let's have a coffee.
+• أسوي لك شاي، وإلا تفضل القهوة؟ (asawwi lak shaay, willa tfaddil il-gahwa?) = Shall I make you tea, or do you prefer coffee?
+
+Practise in Claude voice mode (copy this):
+Let's role-play a coffee and tea break at the office in Gulf Arabic (Khaleeji), not formal Arabic. You are a friendly colleague offering me coffee or tea, asking about sugar and milk, and chatting before a meeting. Speak slowly and keep your sentences short, and wait for me to answer out loud. Correct only one mistake at a time, and keep my replies short and simple.
+
+Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.</description>
+      <content:encoded>&lt;p&gt;Gulf Arabic (Khaleeji), lesson 5 (office): Coffee and tea at the office&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• تبي قهوة أو شاي؟ (tibi gahwa aw shaay?) = Do you want coffee or tea?&lt;br/&gt;• أبي شاي بالحليب، لو سمحت. (abi shaay bil-haleeb, law samaht.) = I&amp;#x27;d like tea with milk, please.&lt;br/&gt;• وين المطبخ، لو سمحت؟ (ween il-matbakh, law samaht?) = Where is the kitchen, please?&lt;br/&gt;• تبي سكر وإلا بدون؟ (tibi sukkar willa bidoon?) = Do you want sugar or none?&lt;br/&gt;• القهوة طيبة مرة، من سوّاها؟ (il-gahwa tayyiba marra, min sawwaaha?) = The coffee is really good, who made it?&lt;br/&gt;• أنا أشرب قهوة كل صباح قبل الشغل. (ana ashrab gahwa kull sabaah gabl ish-shughl.) = I drink coffee every morning before work.&lt;br/&gt;• عندنا وقت قبل الاجتماع، خلنا نشرب قهوة. ( indana wagt gabl il-ijtimaa&amp;#x27;, khallina nishrab gahwa.) = We have time before the meeting, let&amp;#x27;s have a coffee.&lt;br/&gt;• أسوي لك شاي، وإلا تفضل القهوة؟ (asawwi lak shaay, willa tfaddil il-gahwa?) = Shall I make you tea, or do you prefer coffee?&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play a coffee and tea break at the office in Gulf Arabic (Khaleeji), not formal Arabic. You are a friendly colleague offering me coffee or tea, asking about sugar and milk, and chatting before a meeting. Speak slowly and keep your sentences short, and wait for me to answer out loud. Correct only one mistake at a time, and keep my replies short and simple.&lt;br/&gt;&lt;br/&gt;Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-17-ar-gulf-005-office.mp3" length="6304326" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-ar-gulf-2026-11-17-5</guid>
+      <pubDate>Fri, 13 Nov 2026 16:06:00 +0400</pubDate>
+      <itunes:duration>787</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>French 4: Taxi, metro and buses</title>
+      <description>French, lesson 4 (street): Taxi, metro and buses
+
+New phrases:
+• Un ticket, s'il vous plaît. = One ticket, please.
+• Où est l'arrêt de bus ? = Where is the bus stop?
+• Je vais au centre-ville. = I'm going to the city centre.
+• Ce bus va à la gare ? = Does this bus go to the station?
+• Quelle est la prochaine station ? = What is the next stop?
+• Je descends ici, merci. = I'm getting off here, thanks.
+• Je voudrais un taxi, s'il vous plaît. = I'd like a taxi, please.
+• Arrêtez-vous ici, s'il vous plaît. = Stop here, please.
+
+Practise in Claude voice mode (copy this):
+Let's role-play in French about taking taxis, the metro and buses on the street. Play a bus driver, a taxi driver or a passer-by, and speak slowly using short, simple sentences. I'm a beginner, so keep your replies short and wait for my answer. If I make a mistake, correct only one thing at a time, then continue the conversation.</description>
+      <content:encoded>&lt;p&gt;French, lesson 4 (street): Taxi, metro and buses&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Un ticket, s&amp;#x27;il vous plaît. = One ticket, please.&lt;br/&gt;• Où est l&amp;#x27;arrêt de bus ? = Where is the bus stop?&lt;br/&gt;• Je vais au centre-ville. = I&amp;#x27;m going to the city centre.&lt;br/&gt;• Ce bus va à la gare ? = Does this bus go to the station?&lt;br/&gt;• Quelle est la prochaine station ? = What is the next stop?&lt;br/&gt;• Je descends ici, merci. = I&amp;#x27;m getting off here, thanks.&lt;br/&gt;• Je voudrais un taxi, s&amp;#x27;il vous plaît. = I&amp;#x27;d like a taxi, please.&lt;br/&gt;• Arrêtez-vous ici, s&amp;#x27;il vous plaît. = Stop here, please.&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play in French about taking taxis, the metro and buses on the street. Play a bus driver, a taxi driver or a passer-by, and speak slowly using short, simple sentences. I&amp;#x27;m a beginner, so keep your replies short and wait for my answer. If I make a mistake, correct only one thing at a time, then continue the conversation.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-16-fr-004-street.mp3" length="4761600" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-fr-2026-11-16-4</guid>
+      <pubDate>Fri, 13 Nov 2026 16:03:00 +0400</pubDate>
+      <itunes:duration>595</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gulf Arabic (Khaleeji) 4: Asking for and understanding directions</title>
+      <description>Gulf Arabic (Khaleeji), lesson 4 (street): Asking for and understanding directions
+
+New phrases:
+• وين المترو، لو سمحت؟ (wein al-metro, law samaht?) = Where is the metro, please?
+• هذا بعيد من هني؟ (hatha ba'eed min hni?) = Is it far from here?
+• لا، قريب، امش على طول. (la, greeb, imshi 'ala tool.) = No, it's close, walk straight ahead.
+• لف يمين عند الإشارة. (liff yameen 'ind al-ishara.) = Turn right at the traffic light.
+• ضعت، تقدر تساعدني؟ (di't, tigdar tsa'idni?) = I'm lost, can you help me?
+• ما فهمت، عيد بشويش، لو سمحت. (ma fhamt, 'eed bshweesh, law samaht.) = I didn't understand, please repeat slowly.
+• كم دقيقة مشي من هني؟ (kam daqeeqa mashi min hni?) = How many minutes is the walk from here?
+• بعد الإشارة لف يسار، وبتشوف المحطة قدامك. (ba'd al-ishara liff yasaar, w btshoof al-mahatta gidamak.) = After the light turn left, and you'll see the station in front of you.
+
+Practise in Claude voice mode (copy this):
+Let's role-play in Gulf Arabic, Khaleeji dialect, not formal Arabic. You are a friendly local on a street in Dubai and I am a person asking for directions to the metro, a café or a mall. Speak slowly with short sentences, and keep my replies short too. Correct only one mistake at a time, then continue the conversation.
+
+Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.</description>
+      <content:encoded>&lt;p&gt;Gulf Arabic (Khaleeji), lesson 4 (street): Asking for and understanding directions&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• وين المترو، لو سمحت؟ (wein al-metro, law samaht?) = Where is the metro, please?&lt;br/&gt;• هذا بعيد من هني؟ (hatha ba&amp;#x27;eed min hni?) = Is it far from here?&lt;br/&gt;• لا، قريب، امش على طول. (la, greeb, imshi &amp;#x27;ala tool.) = No, it&amp;#x27;s close, walk straight ahead.&lt;br/&gt;• لف يمين عند الإشارة. (liff yameen &amp;#x27;ind al-ishara.) = Turn right at the traffic light.&lt;br/&gt;• ضعت، تقدر تساعدني؟ (di&amp;#x27;t, tigdar tsa&amp;#x27;idni?) = I&amp;#x27;m lost, can you help me?&lt;br/&gt;• ما فهمت، عيد بشويش، لو سمحت. (ma fhamt, &amp;#x27;eed bshweesh, law samaht.) = I didn&amp;#x27;t understand, please repeat slowly.&lt;br/&gt;• كم دقيقة مشي من هني؟ (kam daqeeqa mashi min hni?) = How many minutes is the walk from here?&lt;br/&gt;• بعد الإشارة لف يسار، وبتشوف المحطة قدامك. (ba&amp;#x27;d al-ishara liff yasaar, w btshoof al-mahatta gidamak.) = After the light turn left, and you&amp;#x27;ll see the station in front of you.&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play in Gulf Arabic, Khaleeji dialect, not formal Arabic. You are a friendly local on a street in Dubai and I am a person asking for directions to the metro, a café or a mall. Speak slowly with short sentences, and keep my replies short too. Correct only one mistake at a time, then continue the conversation.&lt;br/&gt;&lt;br/&gt;Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-16-ar-gulf-004-street.mp3" length="5359331" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-ar-gulf-2026-11-16-4</guid>
+      <pubDate>Fri, 13 Nov 2026 16:04:00 +0400</pubDate>
+      <itunes:duration>669</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>French 3: Asking for and understanding directions</title>
+      <description>French, lesson 3 (street): Asking for and understanding directions
+
+New phrases:
+• Allez tout droit. = Go straight ahead.
+• Tournez à droite. = Turn right.
+• Tournez à gauche. = Turn left.
+• C'est loin d'ici ? = Is it far from here?
+• Excusez-moi, où est la gare ? = Excuse me, where is the station?
+• Vous pouvez répéter, s'il vous plaît ? = Can you repeat that, please?
+• C'est à cinq minutes à pied. = It's five minutes on foot.
+• Je cherche la station de métro. = I'm looking for the metro station.
+
+Practise in Claude voice mode (copy this):
+Let's role-play in French: I'm a beginner lost in a city, and you're a friendly passerby giving me directions. Speak slowly, use very short sentences, and use vous. Correct only one mistake at a time, then continue, and keep my replies short. Start by asking me what I'm looking for.</description>
+      <content:encoded>&lt;p&gt;French, lesson 3 (street): Asking for and understanding directions&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Allez tout droit. = Go straight ahead.&lt;br/&gt;• Tournez à droite. = Turn right.&lt;br/&gt;• Tournez à gauche. = Turn left.&lt;br/&gt;• C&amp;#x27;est loin d&amp;#x27;ici ? = Is it far from here?&lt;br/&gt;• Excusez-moi, où est la gare ? = Excuse me, where is the station?&lt;br/&gt;• Vous pouvez répéter, s&amp;#x27;il vous plaît ? = Can you repeat that, please?&lt;br/&gt;• C&amp;#x27;est à cinq minutes à pied. = It&amp;#x27;s five minutes on foot.&lt;br/&gt;• Je cherche la station de métro. = I&amp;#x27;m looking for the metro station.&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play in French: I&amp;#x27;m a beginner lost in a city, and you&amp;#x27;re a friendly passerby giving me directions. Speak slowly, use very short sentences, and use vous. Correct only one mistake at a time, then continue, and keep my replies short. Start by asking me what I&amp;#x27;m looking for.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-15-fr-003-street.mp3" length="4503528" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-fr-2026-11-15-3</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 +0400</pubDate>
+      <itunes:duration>562</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Norwegian Bokmål 2: Trains, ferries and buses</title>
+      <description>Norwegian Bokmål, lesson 2 (street): Trains, ferries and buses
+
+New phrases:
+• Hvor går bussen? = Where does the bus go from?
+• Når går neste tog? = When does the next train leave?
+• Hvor kjøper jeg billett? = Where do I buy a ticket?
+• Jeg vil gjerne ha to billetter til Bergen. = I'd like two tickets to Bergen.
+• Går denne fergen til Flåm? = Does this ferry go to Flåm?
+• Kan du si fra når vi kommer til Oslo sentralstasjon? = Can you tell me when we get to Oslo Central Station?
+
+Practise in Claude voice mode (copy this):
+Let's role-play in Norwegian Bokmål. You are a friendly ticket seller at a Norwegian station, and I am a tourist buying train, bus and ferry tickets for my family. Speak slowly, use short simple sentences, and keep your replies short. Correct only one mistake at a time, and then continue the conversation.</description>
+      <content:encoded>&lt;p&gt;Norwegian Bokmål, lesson 2 (street): Trains, ferries and buses&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Hvor går bussen? = Where does the bus go from?&lt;br/&gt;• Når går neste tog? = When does the next train leave?&lt;br/&gt;• Hvor kjøper jeg billett? = Where do I buy a ticket?&lt;br/&gt;• Jeg vil gjerne ha to billetter til Bergen. = I&amp;#x27;d like two tickets to Bergen.&lt;br/&gt;• Går denne fergen til Flåm? = Does this ferry go to Flåm?&lt;br/&gt;• Kan du si fra når vi kommer til Oslo sentralstasjon? = Can you tell me when we get to Oslo Central Station?&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play in Norwegian Bokmål. You are a friendly ticket seller at a Norwegian station, and I am a tourist buying train, bus and ferry tickets for my family. Speak slowly, use short simple sentences, and keep your replies short. Correct only one mistake at a time, and then continue the conversation.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-15-no-002-street.mp3" length="3441791" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-no-2026-11-15-2</guid>
+      <pubDate>Fri, 13 Nov 2026 16:02:00 +0400</pubDate>
+      <itunes:duration>430</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gulf Arabic (Khaleeji) 3: At the café: ordering and paying</title>
+      <description>Gulf Arabic (Khaleeji), lesson 3 (street): At the café: ordering and paying
+
+New phrases:
+• أبي قهوة، لو سمحت. (abi gahwa, law samaht.) = I'd like a coffee, please.
+• كم الحساب؟ (kam il-hisaab?) = How much is the bill?
+• شو عندكم اليوم؟ (shu indkum il-yoom?) = What do you have today?
+• أبي شاي كرك، بدون سكر. (abi shai karak, bidoon sukkar.) = I'd like a karak tea, without sugar.
+• أقدر أدفع بالكرت؟ (agdar adfa' bil-kart?) = Can I pay by card?
+• لا شكراً، بس الحساب لو سمحت. (la shukran, bas il-hisaab law samaht.) = No thanks, just the bill please.
+• أبي آخذها معي، لو سمحت. (abi aakhithha ma'i, law samaht.) = I'd like to take it with me, please.
+• الباقي لك، يعطيك العافية. (il-baagi lak, y'aatik il-'aafya.) = Keep the change, thank you.
+
+Practise in Claude voice mode (copy this):
+Let's role-play ordering and paying at a café in Dubai, in Gulf Arabic (Khaleeji), not formal Arabic. You are the barista and I'm the customer; I'm a beginner, so speak slowly in short sentences. Correct only one mistake at a time, giving me the right sentence to repeat, and keep your own replies short so I do most of the talking. Start by greeting me at the counter.
+
+Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.</description>
+      <content:encoded>&lt;p&gt;Gulf Arabic (Khaleeji), lesson 3 (street): At the café: ordering and paying&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• أبي قهوة، لو سمحت. (abi gahwa, law samaht.) = I&amp;#x27;d like a coffee, please.&lt;br/&gt;• كم الحساب؟ (kam il-hisaab?) = How much is the bill?&lt;br/&gt;• شو عندكم اليوم؟ (shu indkum il-yoom?) = What do you have today?&lt;br/&gt;• أبي شاي كرك، بدون سكر. (abi shai karak, bidoon sukkar.) = I&amp;#x27;d like a karak tea, without sugar.&lt;br/&gt;• أقدر أدفع بالكرت؟ (agdar adfa&amp;#x27; bil-kart?) = Can I pay by card?&lt;br/&gt;• لا شكراً، بس الحساب لو سمحت. (la shukran, bas il-hisaab law samaht.) = No thanks, just the bill please.&lt;br/&gt;• أبي آخذها معي، لو سمحت. (abi aakhithha ma&amp;#x27;i, law samaht.) = I&amp;#x27;d like to take it with me, please.&lt;br/&gt;• الباقي لك، يعطيك العافية. (il-baagi lak, y&amp;#x27;aatik il-&amp;#x27;aafya.) = Keep the change, thank you.&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play ordering and paying at a café in Dubai, in Gulf Arabic (Khaleeji), not formal Arabic. You are the barista and I&amp;#x27;m the customer; I&amp;#x27;m a beginner, so speak slowly in short sentences. Correct only one mistake at a time, giving me the right sentence to repeat, and keep your own replies short so I do most of the talking. Start by greeting me at the counter.&lt;br/&gt;&lt;br/&gt;Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-15-ar-gulf-003-street.mp3" length="5093981" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-ar-gulf-2026-11-15-3</guid>
+      <pubDate>Fri, 13 Nov 2026 16:01:00 +0400</pubDate>
+      <itunes:duration>636</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>French 2: At the café: ordering and paying</title>
+      <description>French, lesson 2 (street): At the café: ordering and paying
+
+New phrases:
+• Un café, s'il vous plaît. = A coffee, please.
+• C'est combien ? = How much is it?
+• Non, c'est tout, merci. = No, that's all, thanks.
+• Avec du lait, s'il vous plaît. = With milk, please.
+• Je voudrais un thé, s'il vous plaît. = I would like a tea, please.
+• L'addition, s'il vous plaît. = The bill, please.
+• Je prends aussi un croissant. = I'll also have a croissant.
+• Je peux payer par carte ? = Can I pay by card?
+
+Practise in Claude voice mode (copy this):
+Let's role-play in French at a café: you are the waiter and I am a customer ordering a drink and paying. I'm a beginner, so speak slowly, use short sentences, and use vous with me. Correct only one mistake at a time, kindly, and then let me try again. Keep your replies short so I can do most of the speaking.</description>
+      <content:encoded>&lt;p&gt;French, lesson 2 (street): At the café: ordering and paying&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Un café, s&amp;#x27;il vous plaît. = A coffee, please.&lt;br/&gt;• C&amp;#x27;est combien ? = How much is it?&lt;br/&gt;• Non, c&amp;#x27;est tout, merci. = No, that&amp;#x27;s all, thanks.&lt;br/&gt;• Avec du lait, s&amp;#x27;il vous plaît. = With milk, please.&lt;br/&gt;• Je voudrais un thé, s&amp;#x27;il vous plaît. = I would like a tea, please.&lt;br/&gt;• L&amp;#x27;addition, s&amp;#x27;il vous plaît. = The bill, please.&lt;br/&gt;• Je prends aussi un croissant. = I&amp;#x27;ll also have a croissant.&lt;br/&gt;• Je peux payer par carte ? = Can I pay by card?&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play in French at a café: you are the waiter and I am a customer ordering a drink and paying. I&amp;#x27;m a beginner, so speak slowly, use short sentences, and use vous with me. Correct only one mistake at a time, kindly, and then let me try again. Keep your replies short so I can do most of the speaking.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-14-fr-002-street.mp3" length="4670332" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-fr-2026-11-14-2</guid>
+      <pubDate>Fri, 13 Nov 2026 15:58:00 +0400</pubDate>
+      <itunes:duration>583</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gulf Arabic (Khaleeji) 2: Greetings and introducing yourself</title>
+      <description>Gulf Arabic (Khaleeji), lesson 2 (street): Greetings and introducing yourself
+
+New phrases:
+• هلا والله! (Hala wallah!) = Hey, welcome! (a warm hello)
+• الله يحييك، شخبارك؟ (Allah yhayyeek, shakhbaarak?) = God keep you, how's it going?
+• شو اسمك؟ (Shu ismak?) = What's your name?
+• اسمي رامبو، فرصة سعيدة. (Ismi Rambo, forsa sa'eeda.) = My name is Rambo, pleased to meet you.
+• من وين إنت؟ (Min wein inta?) = Where are you from?
+• أنا أسكن في دبي. (Ana askun fi Dubai.) = I live in Dubai.
+• أتكلم عربي شوي، وأتعلم كل يوم. (Atkallam arabi shwai, w atallam kil yoom.) = I speak a little Arabic, and I learn every day.
+• تعال، أعرّفك على صديقي. (Ta'aal, a'arrifak ala sadeeqi.) = Come, let me introduce you to my friend.
+
+Practise in Claude voice mode (copy this):
+Let's role-play a street greeting in Gulf Arabic (Khaleeji), not formal Arabic. You are a friendly Emirati man I've just met outside a café: greet me, ask my name, ask how I am, and introduce a friend. Speak slowly, use short sentences, and keep your turns brief so I can answer out loud. Correct only one mistake at a time, give me the right sentence to repeat, then carry on.
+
+Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.</description>
+      <content:encoded>&lt;p&gt;Gulf Arabic (Khaleeji), lesson 2 (street): Greetings and introducing yourself&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• هلا والله! (Hala wallah!) = Hey, welcome! (a warm hello)&lt;br/&gt;• الله يحييك، شخبارك؟ (Allah yhayyeek, shakhbaarak?) = God keep you, how&amp;#x27;s it going?&lt;br/&gt;• شو اسمك؟ (Shu ismak?) = What&amp;#x27;s your name?&lt;br/&gt;• اسمي رامبو، فرصة سعيدة. (Ismi Rambo, forsa sa&amp;#x27;eeda.) = My name is Rambo, pleased to meet you.&lt;br/&gt;• من وين إنت؟ (Min wein inta?) = Where are you from?&lt;br/&gt;• أنا أسكن في دبي. (Ana askun fi Dubai.) = I live in Dubai.&lt;br/&gt;• أتكلم عربي شوي، وأتعلم كل يوم. (Atkallam arabi shwai, w atallam kil yoom.) = I speak a little Arabic, and I learn every day.&lt;br/&gt;• تعال، أعرّفك على صديقي. (Ta&amp;#x27;aal, a&amp;#x27;arrifak ala sadeeqi.) = Come, let me introduce you to my friend.&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play a street greeting in Gulf Arabic (Khaleeji), not formal Arabic. You are a friendly Emirati man I&amp;#x27;ve just met outside a café: greet me, ask my name, ask how I am, and introduce a friend. Speak slowly, use short sentences, and keep your turns brief so I can answer out loud. Correct only one mistake at a time, give me the right sentence to repeat, then carry on.&lt;br/&gt;&lt;br/&gt;Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-14-ar-gulf-002-street.mp3" length="4875121" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-ar-gulf-2026-11-14-2</guid>
+      <pubDate>Fri, 13 Nov 2026 15:59:00 +0400</pubDate>
+      <itunes:duration>609</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Norwegian Bokmål 1: Arriving: airport, passport, luggage</title>
+      <description>Norwegian Bokmål, lesson 1 (street): Arriving: airport, passport, luggage
+
+New phrases:
+• Hei, jeg heter Rambo. = Hi, my name is Rambo.
+• Her er passet mitt. = Here is my passport.
+• Vi er her på ferie. = We're here on holiday.
+• Jeg finner ikke bagasjen min. = I can't find my luggage.
+• Hvor kan jeg hente bagasjen? = Where can I pick up my luggage?
+• Unnskyld, hvor er utgangen til toget? = Excuse me, where is the exit to the train?
+
+Practise in Claude voice mode (copy this):
+Let's role-play arriving at an airport in Norway, in Norwegian Bokmål. You play a border officer and then an airport worker, and I'm a tourist on a family holiday. Speak slowly with short, simple sentences, and keep my replies short. Correct only one mistake at a time, and then let me try again.</description>
+      <content:encoded>&lt;p&gt;Norwegian Bokmål, lesson 1 (street): Arriving: airport, passport, luggage&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Hei, jeg heter Rambo. = Hi, my name is Rambo.&lt;br/&gt;• Her er passet mitt. = Here is my passport.&lt;br/&gt;• Vi er her på ferie. = We&amp;#x27;re here on holiday.&lt;br/&gt;• Jeg finner ikke bagasjen min. = I can&amp;#x27;t find my luggage.&lt;br/&gt;• Hvor kan jeg hente bagasjen? = Where can I pick up my luggage?&lt;br/&gt;• Unnskyld, hvor er utgangen til toget? = Excuse me, where is the exit to the train?&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play arriving at an airport in Norway, in Norwegian Bokmål. You play a border officer and then an airport worker, and I&amp;#x27;m a tourist on a family holiday. Speak slowly with short, simple sentences, and keep my replies short. Correct only one mistake at a time, and then let me try again.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-13-no-001-street.mp3" length="2733321" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-no-2026-11-13-1</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0400</pubDate>
+      <itunes:duration>341</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gulf Arabic (Khaleeji) 1: Greetings and office courtesies</title>
+      <description>Gulf Arabic (Khaleeji), lesson 1 (office): Greetings and office courtesies
+
+New phrases:
+• صباح الخير. (sabaah il-khayr.) = Good morning.
+• صباح النور. (sabaah in-noor.) = Good morning to you too. (the reply)
+• شلونك اليوم؟ (shlownak il-yoom?) = How are you today?
+• الحمد لله، تمام، وإنت؟ (il-hamdulillah, tamaam, w inta?) = Fine, thank God. And you?
+• أنا رامبو، تشرفنا. (ana Rambo, tsharrafna.) = I'm Rambo, nice to meet you.
+• تفضل، اجلس. (tfaddal, ijlis.) = Please, have a seat.
+• شكراً على وقتك. (shukran 'ala waqtak.) = Thank you for your time.
+• يسعدني التعرف عليكم جميعاً. (yus'idni at-ta'arruf 'alaykum jamee'an.) = I'm pleased to meet you all. [formal Arabic, for presentations]
+
+Practise in Claude voice mode (copy this):
+Let's role-play an office greeting in Gulf Arabic, Khaleeji dialect, not formal Arabic. You play a colleague I meet in the morning: greet me, ask how I am, invite me to sit, and end the meeting politely. Speak slowly, use short sentences, and keep my replies short. Correct only one mistake at a time, then continue the conversation.
+
+Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.</description>
+      <content:encoded>&lt;p&gt;Gulf Arabic (Khaleeji), lesson 1 (office): Greetings and office courtesies&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• صباح الخير. (sabaah il-khayr.) = Good morning.&lt;br/&gt;• صباح النور. (sabaah in-noor.) = Good morning to you too. (the reply)&lt;br/&gt;• شلونك اليوم؟ (shlownak il-yoom?) = How are you today?&lt;br/&gt;• الحمد لله، تمام، وإنت؟ (il-hamdulillah, tamaam, w inta?) = Fine, thank God. And you?&lt;br/&gt;• أنا رامبو، تشرفنا. (ana Rambo, tsharrafna.) = I&amp;#x27;m Rambo, nice to meet you.&lt;br/&gt;• تفضل، اجلس. (tfaddal, ijlis.) = Please, have a seat.&lt;br/&gt;• شكراً على وقتك. (shukran &amp;#x27;ala waqtak.) = Thank you for your time.&lt;br/&gt;• يسعدني التعرف عليكم جميعاً. (yus&amp;#x27;idni at-ta&amp;#x27;arruf &amp;#x27;alaykum jamee&amp;#x27;an.) = I&amp;#x27;m pleased to meet you all. [formal Arabic, for presentations]&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play an office greeting in Gulf Arabic, Khaleeji dialect, not formal Arabic. You play a colleague I meet in the morning: greet me, ask how I am, invite me to sit, and end the meeting politely. Speak slowly, use short sentences, and keep my replies short. Correct only one mistake at a time, then continue the conversation.&lt;br/&gt;&lt;br/&gt;Note: the audio voices speak Modern Standard Arabic pronunciation; Gulf speakers may sound different.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-13-ar-gulf-001-office.mp3" length="3435823" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-ar-gulf-2026-11-13-1</guid>
+      <pubDate>Fri, 13 Nov 2026 04:59:00 +0400</pubDate>
+      <itunes:duration>429</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>French 1: Greetings and introducing yourself</title>
+      <description>French, lesson 1 (street): Greetings and introducing yourself
+
+New phrases:
+• Salut, ça va ? = Hi, how's it going?
+• Ça va bien, merci. = I'm doing well, thanks.
+• Et toi ? = And you?
+• Je m'appelle Rambo. = My name is Rambo.
+• Comment tu t'appelles ? = What's your name?
+• Enchanté de te rencontrer. = Nice to meet you.
+• J'habite à Dubaï. = I live in Dubai.
+• Je parle un peu français. = I speak a little French.
+
+Practise in Claude voice mode (copy this):
+Let's role-play meeting a stranger on the street in France, in French only. Use the informal tu, speak slowly, and use short, simple sentences. Greet me, ask how I am, ask my name, and where I live. Correct only one mistake at a time, briefly, and keep your own replies short so I can answer out loud.</description>
+      <content:encoded>&lt;p&gt;French, lesson 1 (street): Greetings and introducing yourself&lt;br/&gt;&lt;br/&gt;New phrases:&lt;br/&gt;• Salut, ça va ? = Hi, how&amp;#x27;s it going?&lt;br/&gt;• Ça va bien, merci. = I&amp;#x27;m doing well, thanks.&lt;br/&gt;• Et toi ? = And you?&lt;br/&gt;• Je m&amp;#x27;appelle Rambo. = My name is Rambo.&lt;br/&gt;• Comment tu t&amp;#x27;appelles ? = What&amp;#x27;s your name?&lt;br/&gt;• Enchanté de te rencontrer. = Nice to meet you.&lt;br/&gt;• J&amp;#x27;habite à Dubaï. = I live in Dubai.&lt;br/&gt;• Je parle un peu français. = I speak a little French.&lt;br/&gt;&lt;br/&gt;Practise in Claude voice mode (copy this):&lt;br/&gt;Let&amp;#x27;s role-play meeting a stranger on the street in France, in French only. Use the informal tu, speak slowly, and use short, simple sentences. Greet me, ask how I am, ask my name, and where I live. Correct only one mistake at a time, briefly, and keep your own replies short so I can answer out loud.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://rjthor.github.io/polyglot-daily/episodes/2026-11-12-fr-001-street.mp3" length="3558465" type="audio/mpeg" />
+      <guid isPermaLink="false">polyglot-fr-2026-11-12-1</guid>
+      <pubDate>Thu, 12 Nov 2026 05:00:00 +0400</pubDate>
+      <itunes:duration>444</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
